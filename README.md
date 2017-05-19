@@ -1,3 +1,5 @@
+# **Not maintained anymore: Please switch to a more modern language like TypeScript or ES6+**
+
 # grunt-toffee
 
 > Compiles toffeescript
